@@ -7,6 +7,7 @@ int main()
     //hello
     //_________
     /*whdhbejwdn*/
+    
     cin>>a>>b;
     cout<<a+b;
     return 0;
